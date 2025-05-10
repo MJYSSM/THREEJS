@@ -3,6 +3,7 @@ import { TresCanvas } from '@tresjs/core';
 import { onMounted, reactive, ref } from 'vue';
 import { BasicShadowMap, NoToneMapping, SRGBColorSpace } from 'three';
 import Scene from './components/Scene.vue';
+const st='hahaajh';
 
 const state = reactive({
 	alpha: true,
