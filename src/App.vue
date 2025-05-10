@@ -5,6 +5,8 @@ import { BasicShadowMap, NoToneMapping, SRGBColorSpace } from 'three';
 import Scene from './components/Scene.vue';
 const st='hahaajh';
 
+const change='aaaaa';
+
 const state = reactive({
 	alpha: true,
 	transparent: true,
